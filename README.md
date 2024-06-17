@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bharath Surigi
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning what is what
+- 👀 I’m interested in Coding.....
+- 🌱 I’m currently learning what is what.....
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me bharathsurigi7
 - 😄 Pronouns: _______@______
